@@ -3,20 +3,36 @@
 ## Introduction
 This repository contains all languages for a weight converter. The scripts convert weights between kilograms (KG) and pounds (LBS).
 
-## Languages Included (15)
+## Languages Included (24)
 - C / c
 - C++ / cpp
 - C# / cs
 - D / d
 - Dart / dart
-- Java / java
-- Julia / jl
-- Lua / lua
-- Python / py
-- Ruby / ruby
+- Elixir / ex
+- Erlang / erl
+- Fortran / f90
+- F# / fs
 - Go / go
-- Rust / rs
+- Groovy / groovy
+- Haskell / hs
+- Java / java
 - Javascript / js
-- Swift / swift
+- Julia / jl
 - Kotlin / kt
+- Lua / lua
+- Matlab / m
 - Objective-C (Objective) / m
+- Perl / pl
+- PHP / php
+- Powershell / ps1
+- Prolog / pl
+- Racket / rkt
+- Ruby / rb
+- Rust / rs
+- Scala / scala
+- Scheme / scm
+- ShellScript (Bash) / sh
+- Swift / swift
+- Typescript / ts
+- Verilog / v
