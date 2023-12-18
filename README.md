@@ -15,5 +15,5 @@ This repository contains all languages for a weight converter. The scripts conve
 - Python / py
 - Ruby / ruby
 - Go / go
-- Rust / rust
+- Rust / rs
 - Javascript / js
