@@ -1,7 +1,7 @@
-# Weight Converter | All Languages
+# Weight Converter | In All Languages
 
 ## Introduction
-This repository contains all languages for a weight converter. The scripts convert weights between kilograms (KG) and pounds (LBS).
+This repository contains a weight converter in all possible programming languages. The scripts convert weights between kilograms (KG) and pounds (LBS) and vice versa.
 
 ## Languages Included (24)
 - C / c
