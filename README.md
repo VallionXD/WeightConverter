@@ -3,7 +3,7 @@
 ## Introduction
 This repository contains a weight converter in all possible programming languages. The scripts convert weights between kilograms (KG) and pounds (LBS) and vice versa.
 
-## Languages Included (24)
+## Languages Included (37)
 - C / c
 - C++ / cpp
 - C# / cs
